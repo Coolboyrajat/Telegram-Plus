@@ -1,4 +1,4 @@
-# <img align=center src"ic_launcher.png" alt="Logo" height=50 width=50 /><p align=center>Telegram +</p>
+# <img align="left" src="ic_launcher.png" height="60" width="60" /> <p align=left>Telegram +<img align="center" src="icon_foreground.png" height="60" width="60" ></p>
 
 What's New:
 
