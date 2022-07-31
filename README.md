@@ -8,13 +8,23 @@
 ## What's New:
 
 - [x] Fingerprint Support
-- [ ] Profile Pic full display toggle ( Source Telegram X)
-- [ ] Show either Phone Number or Unique ID or none (Source )
 - [ ] Accent Color 🎨
-- [ ] Tablet Mode 
 - [ ] Enable Reaction
 - [ ] Two icon for Profile Editing (keep both or use only one user dependent)
+- [ ] Change of Icon (duotone)
+- [ ] Rebuild of Media Player 
+- [ ] Swipe Control in media player 
 - [x] N Many More ...😍🥳
+
+## Features:
+
+- [ ] Profile Pic full display toggle ( Source Telegram X)
+- [ ] Show either Phone Number or Unique ID or none (Source )
+- [ ] Tablet Mode (Source )
+- [ ] Clear Media data (Source Telegram X)
+- [ ] Go to Source Chat
+- [ ] Pin Saved Messages (Source Telegram)
+- [ ] Scrolling Pin Messages (Source Telegram X)
 
 ```
 Note: Hi everyone the above points is what 
