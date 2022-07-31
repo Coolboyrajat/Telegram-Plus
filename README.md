@@ -22,7 +22,7 @@ Note: Hi everyone the above points is what
      But Since I'm not a developer 
     I can't implement this feature.
 ```   
-### Biometric FingerPrint Authentication
+### Biometric FingerPrint Authentication (Java Based Code)
 
 - activity_main.xml
 ```
@@ -42,7 +42,7 @@ dependencies{
 public class MainActivity extends AppCompatActivity {
     
 
-   BiometricPrompt biometricPrompt; # Use androidx.biometric
+   BiometricPrompt biometricPrompt; // Use androidx.biometric
    BiometricPrompt.PromptInfo promptInfo;
    ConstraintLayout mMainLayout;
 
@@ -51,21 +51,21 @@ public class MainActivity extends AppCompatActivity {
    protected void onCreate(Bundle savedInstanceState) {
        super.onCreate(savedInstanceState);
        setContentView(R.layout.activity_main);
-       mMainLayout=findViewById(R.id.main_layout);
+       mMainLayout = findViewById(R.id.main_layout);
 
 
        BiometricManager biometricManager=BiometricManager.from(this);
        switch(biometric Manager.canAuthenticate())
        {
             case BiometricManager.BIOMETRIC_ERROR_NO_HARDWARE:
-                Toast.makeText(getApplicationContext(),  "Device Doesn't have fingerprint", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Device Doesn't have fingerprint", Toast.LENGTH_SHORT).show();
                 break;
 
             case BiometricManager.BIOMETRIC_ERROR_HW_UNAVAILABLE:
-                Toast.makeText(getApplicationContext(),  "Not Working", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Not Working", Toast.LENGTH_SHORT).show();
 
             case BiometricManager.BIOMETRIC ERROR_NONE_ENROLLED:
-                Toast.makeText(getApplicationContext(),  "No FingerPrint Assigned", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "No FingerPrint Assigned", Toast.LENGTH_SHORT).show();
        }
 
        
@@ -90,8 +90,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        promptInfo = new BiometricPrompt.PromptInfo.Builder().setTitle("Test Built")
-                       .setDescription("Use FingerPrint to Login").setDeviceCredentialAllowed(true).built();
+        promptInfo = new BiometricPrompt.PromptInfo.Builder()
+                       .setTitle("Test Built")
+                       .setDescription("Use FingerPrint to Login")
+                       .setDeviceCredentialAllowed(true).built();
 
         biometricPrompt.authenticate(promptInfo);
 
