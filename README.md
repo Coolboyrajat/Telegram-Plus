@@ -7,7 +7,7 @@
 
 ## What's New:
 
-- [x] Fingerprint Support
+- [x] Fingerprint as Default Security lock.
 - [ ] Accent Color 🎨
 - [ ] Enable Reaction
 - [ ] Two icon for Profile Editing (keep both or use only one user dependent)
@@ -18,13 +18,14 @@
 
 ## Features:
 
-- [ ] Profile Pic full display toggle ( Source Telegram X)
-- [ ] Show either Phone Number or Unique ID or none (Source )
-- [ ] Tablet Mode (Source )
-- [ ] Clear Media data (Source Telegram X)
-- [ ] Go to Source Chat
-- [ ] Pin Saved Messages (Source Telegram)
-- [ ] Scrolling Pin Messages (Source Telegram X)
+- [x] Profile Pic full display toggle ( Source Telegram X)
+- [x] Show either Phone Number or Unique ID or none (Source )
+- [x] Tablet Mode (Source )
+- [x] Clear Media data (Source Telegram X)
+- [x] Go to Source Chat (Source Telegram X)
+- [x] Pin Saved Messages (Source Telegram)
+- [x] Scrolling Pin Messages (Source Telegram X)
+- [x] Customize Double tap (Source )
 
 ```
 Note: Hi everyone the above points is what 
