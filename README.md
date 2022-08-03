@@ -12,7 +12,7 @@
 - [ ] Enable Reaction
 - [ ] Two icon for Profile Editing (keep both or use only one user dependent)
 - [ ] Change of Icon (duotone)
-- [ ] Rebuild of Media Player 
+- [ ] Redesign Media Player 
 - [ ] Swipe Control in media player 
 - [x] N Many More ...😍🥳
 
@@ -32,7 +32,8 @@ Note: Hi everyone the above points is what
   I want to be integrated in the app,
      But Since I'm not a developer 
     I can't implement this feature.
-```   
+```
+
 ### Biometric FingerPrint Authentication (Java Based Code)
 
 - activity_main.xml
