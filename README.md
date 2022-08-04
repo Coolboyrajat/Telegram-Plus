@@ -3,7 +3,7 @@
 ## About 
 >Based on 8.8.6
 
-INDIAN origin based 
+INDIAN origin based 🇮🇳
 - Reincarnation of Telegram, Telegram X, Nekogram, Nicegram 
 
 ## What's New:
@@ -19,7 +19,7 @@ INDIAN origin based
 
 ## Preview
 >Duotone Icon with Color Palette (Default [blue]())
-<img src="Screenshot 1.png" height="900" width="400" />
+<img src="Screenshot 1.png" height="850" width="400" />
 
 ## Features:
 
