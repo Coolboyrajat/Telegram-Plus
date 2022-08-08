@@ -11,15 +11,31 @@ INDIAN origin based 🇮🇳
 - [x] Fingerprint as Default Security lock.
 - [ ] Accent Color 🎨
 - [ ] Two icon for Profile Editing (keep both or use only one user dependent)
-- [ ] Change of Icon (duotone)
+- [ ] Change of Icon (duotone)(Animated)
 - [ ] Redesign Media Player 
 - [ ] Swipe Control in media player 
 - [ ] Some Settings will Pop up in the middle & Some from bottom.
 - [x] N Many More ...😍🥳
 
-## Preview
+```
+Note: Hi everyone the above points is what 
+  I want to be integrated in the app,
+     But Since I'm not a developer 
+    I can't implement this feature.
+```
+
+## Demo Preview:
 >Duotone Icon with Color Palette (Default [blue]())
-<img src="Screenshot 1.png" height="850" width="400" />
+
+<img src="Screenshot 1.png" height="850" width="400" /> | <img src="Screenshot-2.png" height="850" width="400" />
+
+Get ready for more ... Do you like duotone icon in the demo preview [Poll]()
+
+I'm also thinking about a little change in icon for `'PREMIUM USER'`. Do guys what to give any [Suggestion / Discuss]()
+
+```
+⚠️ Remember the icon are Animated not frozen as png 😍🥶
+```
 
 ## Features:
 
@@ -37,13 +53,6 @@ INDIAN origin based 🇮🇳
 - [x] Emoji set (Source Telegram X)
 - [x] Disable Jump to next Channel (Source Nikogram)
 
-
-```
-Note: Hi everyone the above points is what 
-  I want to be integrated in the app,
-     But Since I'm not a developer 
-    I can't implement this feature.
-```
 
 ### Biometric FingerPrint Authentication (Java Based Code)
 
