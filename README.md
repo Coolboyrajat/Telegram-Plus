@@ -10,11 +10,11 @@ INDIAN origin based 🇮🇳
 
 - [x] Fingerprint as Default Security lock.
 - [ ] Accent Color 🎨
-- [ ] Enable Reaction
 - [ ] Two icon for Profile Editing (keep both or use only one user dependent)
 - [ ] Change of Icon (duotone)
 - [ ] Redesign Media Player 
 - [ ] Swipe Control in media player 
+- [ ] Some Settings will Pop up in the middle & Some from bottom.
 - [x] N Many More ...😍🥳
 
 ## Preview
@@ -23,14 +23,20 @@ INDIAN origin based 🇮🇳
 
 ## Features:
 
-- [x] Profile Pic full display toggle ( Source Telegram X)
-- [x] Show either Phone Number or Unique ID or none (Source )
+- [x] Profile Pic as background toggle (Source Nikogram, Telegram X)
+- [x] Show either Phone Number or Unique ID or none (Source Nikogram)
+- [x] More than 5+ Accounts (Source Telegram X)
 - [x] Tablet Mode (Source )
 - [x] Clear Media data (Source Telegram X)
 - [x] Go to Source Chat (Source Telegram X)
 - [x] Pin Saved Messages (Source Telegram)
 - [x] Scrolling Pin Messages (Source Telegram X)
 - [x] Customize Double tap (Source )
+- [x] Enable Quick Reaction (Source Telegram X)
+- [x] Transparent Status Bar (Source Nikogram)
+- [x] Emoji set (Source Telegram X)
+- [x] Disable Jump to next Channel (Source Nikogram)
+
 
 ```
 Note: Hi everyone the above points is what 
