@@ -15,7 +15,7 @@ INDIAN origin based 🇮🇳
 - [ ] Redesign Media Player 
 - [ ] Swipe Control in media player 
 - [ ] Some Settings will Pop up in the middle & Some from bottom.
-- [ ] Saved Message / Download in Home Screen for better productivity. (SS below) 
+- [ ] Either. Saved Message, QR code or Download button in Home tab-bar Screen for better productivity. (SS below) 
 - [x] N Many More ...😍🥳
 
 ```
@@ -40,7 +40,7 @@ I'm also thinking about a little change in icon for `'PREMIUM USER'`. Do guys wh
 <img src="Screenshot-4.png" height="850" width="400" />
 
 ```
-Enable Saved Message or Download 
+Enable Saved Message, QR-Code or Download.
 ```
 
 ## Features:
@@ -58,6 +58,7 @@ Enable Saved Message or Download
 - [x] Transparent Status Bar (Source Nikogram)
 - [x] Emoji set (Source Telegram X)
 - [x] Disable Jump to next Channel (Source Nikogram)
+- [x] Multi-Select messages or media (Source Telegram X)
 
 
 ### Biometric FingerPrint Authentication (Java Based Code)
