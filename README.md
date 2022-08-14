@@ -1,7 +1,7 @@
 # <img align="left" src="ic_launcher.png" height="60" width="60" /> <p align=left>Telegram +<img align="center" src="icon_foreground.png" height="60" width="60" ></p>
 
 ## About 
->Based on 8.8.6
+>Based on 8.9.2
 
 INDIAN origin based 🇮🇳
 - Reincarnation of Telegram, Telegram X, Nekogram, Nicegram 
