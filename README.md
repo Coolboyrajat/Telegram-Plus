@@ -15,7 +15,7 @@ INDIAN origin based 🇮🇳
 - [ ] Redesign Media Player 
 - [ ] Swipe Control in media player 
 - [ ] Some Settings will Pop up in the middle & Some from bottom.
-- [ ] Either. Saved Message, QR code or Download button in Home tab-bar Screen for better productivity. (SS below) 
+- [ ] Either Saved Message, QR code or Download button in Home tab-bar Screen for better productivity. (SS below) 
 - [x] N Many More ...😍🥳
 
 ```
@@ -37,10 +37,10 @@ I'm also thinking about a little change in icon for `'PREMIUM USER'`. Do guys wh
 ```
 ⚠️ Remember the icon are Animated not frozen as png 😍🥶
 ```
-<img src="Screenshot-4.png" height="850" width="400" />
+<img src="Screenshot-4.png" height="850" width="400" /> | <img src="Screenshot-5.png" height="850" width="400" />
 
 ```
-Enable Saved Message, QR-Code or Download.
+1. Enable Saved Message, QR-Code or Download.         2. Brand new "Toggle Button".
 ```
 
 ## Features:
@@ -48,7 +48,7 @@ Enable Saved Message, QR-Code or Download.
 - [x] Profile Pic as background toggle (Source Nikogram, Telegram X)
 - [x] Show either Phone Number or Unique ID or none (Source Nikogram)
 - [x] More than 5+ Accounts (Source Telegram X)
-- [x] Tablet Mode (Source )
+- [x] Tablet Mode (Source NIkogram)
 - [x] Clear Media data (Source Telegram X)
 - [x] Go to Source Chat (Source Telegram X)
 - [x] Pin Saved Messages (Source Telegram)
