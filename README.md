@@ -16,6 +16,7 @@ INDIAN origin based 🇮🇳
 - [ ] Swipe Control in media player 
 - [ ] Some Settings will Pop up in the middle & Some from bottom.
 - [ ] Either Saved Message, QR code or Download button in Home tab-bar Screen for better productivity. (SS below) 
+- [ ] Calender in Siderbar to remember Date (User based)
 - [x] N Many More ...😍🥳
 
 ```
