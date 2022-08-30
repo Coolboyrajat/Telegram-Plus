@@ -10,14 +10,15 @@ INDIAN origin based 🇮🇳
 
 - [x] Fingerprint as Default Security lock.
 - [ ] Accent Color 🎨
-- [ ] Two icon for Profile Editing (keep both or use only one user dependent)
+- [ ] Number of icon for Profile Editing `[1,2 or 5 user dependent (min 1 required)]`
 - [ ] Change of Icon (duotone)(Animated)
 - [ ] Redesign Media Player 
 - [ ] Swipe Control in media player 
 - [ ] Some Settings will Pop up in the middle & Some from bottom.
 - [ ] Either Saved Message, QR code or Download button in Home tab-bar Screen for better productivity. (SS below) 
+- [ ] Delete Media data inside `Group/Channel` media tab nad if `owner/admin` remove source chat.
 - [ ] Calender in Siderbar to remember Date (User based)
-- [x] N Many More ...😍🥳
+- [x] N Many More Some things ...😍🥳
 
 ```
 Note: Hi everyone the above points is what 
