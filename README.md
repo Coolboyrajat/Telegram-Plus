@@ -1,21 +1,23 @@
-# <img align="left" src="ic_launcher.png" height="60" width="60" /> <p align=left>Telegram +<img align="center" src="icon_foreground.png" height="60" width="60" ></p>
+# <img align="center" src="TeleGram ++.svg" height="60" width="200" />
 
 ## About 
 >Based on 8.9.2
 
-INDIAN origin based 🇮🇳
+Love from 🇮🇳
 - Reincarnation of Telegram, Telegram X, Nekogram, Nicegram 
 
 ## What's New:
 
+- [ ] Design from Scratch by [@Radioactive](https://github.com/Coolboyrajat)
+- [ ] Action Bar Toggler
 - [x] Fingerprint as Default Security lock.
 - [ ] Accent Color 🎨
 - [ ] Number of icon for Profile Editing `[1,2 or 5 user dependent (min 1 required)]`
-- [ ] Change of Icon (duotone)(Animated)
+- [ ] New Icon (duotone)(Animated)
 - [ ] Redesign Media Player 
 - [ ] Swipe Control in media player 
 - [ ] Some Settings will Pop up in the middle & Some from bottom.
-- [ ] Either Saved Message, QR code or Download button in Home tab-bar Screen for better productivity. (SS below) 
+- [ ] Select Saved Message, QR code or Download button in Action tab-bar Screen for better productivity. 
 - [ ] Delete Media data inside `Group/Channel` media tab nad if `owner/admin` remove source chat.
 - [ ] Calender in Siderbar to remember Date (User based)
 - [x] N Many More Some things ...😍🥳
@@ -27,23 +29,15 @@ Note: Hi everyone the above points is what
     I can't implement this feature.
 ```
 
-## Demo Preview:
->Duotone Icon with Color Palette (Default [blue]())
+## Demo Preview: [PROTOTYPE]()
+>Duotone Icon with Color Palette
 
-<img src="Screenshot 1.png" height="850" width="400" /> | <img src="Screenshot-2.png" height="850" width="400" />
+<img src="Screenshot 1.png" height="850" width="400" />
 
 Get ready for more ... Do you like duotone icon in the demo preview [Poll]()
 
 I'm also thinking about a little change in icon for `'PREMIUM USER'`. Do guys what to give any [Suggestion / Discuss]()
 
-```
-⚠️ Remember the icon are Animated not frozen as png 😍🥶
-```
-<img src="Screenshot-4.png" height="850" width="400" /> | <img src="Screenshot-5.png" height="850" width="400" />
-
-```
-1. Enable Saved Message, QR-Code or Download.         2. Brand new "Toggle Button".
-```
 
 ## Features:
 
