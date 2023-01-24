@@ -1,4 +1,4 @@
-# <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="40" width="40" /><img align="center" src="TeleGram ++.svg" height="60" width="200" />
+# <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" /><img align="center" src="TeleGram ++.svg" height="60" width="200" />
 
 ## About 
 >Based on 8.9.2
@@ -29,10 +29,10 @@ Note: Hi everyone the above points is what
     I can't implement this feature.
 ```
 
-## Demo Preview: <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="40" width="40" />[PROTOTYPE](https://www.figma.com/proto/4OuObhrp6NOdEuZ1c1UGBy/Telegram?node-id=645%3A74&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=645%3A74)
+## Demo Preview: <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" />[PROTOTYPE](https://www.figma.com/proto/4OuObhrp6NOdEuZ1c1UGBy/Telegram?node-id=645%3A74&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=645%3A74)
 >Duotone Icon with Color Palette
 
-<img src="Screenshot.png" height="850" width="400" />
+<img src="Screenshot.png" height="850" width="410" />
 
 Get ready for more ... Do you like duotone icon in the demo preview [Poll]()
 
