@@ -8,19 +8,19 @@ Love from 🇮🇳
 
 ## What's New:
 
-- [ ] Design from Scratch by [@Radioactive](https://github.com/Coolboyrajat)
-- [ ] Action Bar Toggler
-- [x] Fingerprint as Default Security lock.
+- [ ] New UI, Design from Scratch by [@Radioactive](https://github.com/Coolboyrajat)
+- [ ] Customizable widget in Action Bar;
+- [ ] Seperate Pinned Tabs;
+- [x] Fingerprint Support for locking app;
 - [ ] Accent Color 🎨
-- [ ] Number of icon for Profile Editing `[1,2 or 5 user dependent (min 1 required)]`
-- [ ] New Icon (duotone)(Animated)
-- [ ] Redesign Media Player 
-- [ ] Swipe Control in media player 
-- [ ] Some Settings will Pop up in the middle & Some from bottom.
-- [ ] Select Saved Message, QR code or Download button in Action tab-bar Screen for better productivity. 
-- [ ] Delete Media data inside `Group/Channel` media tab nad if `owner/admin` remove source chat.
+- [ ] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
+- [ ] New Icon (duotone)(Animated);
+- [ ] Redesign Media Player;
+- [ ] Swipe Control in media player;
+- [ ] Some Settings will Pop up in the middle & Some from bottom. 
+- [ ] Delete Media data inside `Group/Channel` media tab and if `owner/admin` remove source chat.
 - [ ] Calender in Siderbar to remember Date (User based)
-- [x] N Many More Some things ...😍🥳
+- [x] N Many Many More tiny things can't be explained...😍🥳 Go for Prototype down below 👇🏻👇🏻
 
 ```
 Note: Hi everyone the above points is what 
@@ -29,7 +29,9 @@ Note: Hi everyone the above points is what
     I can't implement this feature.
 ```
 
-## Demo Preview: <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" />[PROTOTYPE](https://www.figma.com/proto/4OuObhrp6NOdEuZ1c1UGBy/Telegram?node-id=645%3A74&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=645%3A74)
+## Demo Preview: <br>
+
+Use [Figma](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dfigma+app&pcampaignid=APPU_1_ckfbY8zmHqeNseMP1-6YmAs&pli=1) app for Best Outcomes of 👉🏼 <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" />[PROTOTYPE](https://www.figma.com/proto/4OuObhrp6NOdEuZ1c1UGBy/Telegram?node-id=645%3A74&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=645%3A74) 👈🏼
 >Duotone Icon with Color Palette
 
 <img src="Screenshot.png" height="850" width="410" />
@@ -43,8 +45,8 @@ I'm also thinking about a little change in icon for `'PREMIUM USER'`. Do guys wh
 
 - [x] Profile Pic as background toggle (Source Nikogram, Telegram X)
 - [x] Show either Phone Number or Unique ID or none (Source Nikogram)
-- [x] More than 5+ Accounts (Source Telegram X)
-- [x] Tablet Mode (Source NIkogram)
+- [x] More than 3+ Accounts (Source Telegram X)
+- [x] Tablet Mode (Source Nikogram)
 - [x] Clear Media data (Source Telegram X)
 - [x] Go to Source Chat (Source Telegram X)
 - [x] Pin Saved Messages (Source Telegram)
@@ -55,7 +57,7 @@ I'm also thinking about a little change in icon for `'PREMIUM USER'`. Do guys wh
 - [x] Emoji set (Source Telegram X)
 - [x] Disable Jump to next Channel (Source Nikogram)
 - [x] Multi-Select messages or media (Source Telegram X)
-
+- [x] Bottom Action Bar (MDgram)
 
 ### Biometric FingerPrint Authentication (Java Based Code)
 
@@ -136,6 +138,6 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-How many of you guys really want the features to be implemented [Poll](). If you want to join the chat to discuss, suggest new ideas [Click Here]() 
+Check out how many of people voted for the features to be implemented [Poll](). If you want to join the chat to discuss, suggest new ideas [Click Here]() 
 
-Participate in the Poll which version of Telegam you used the most [Poll]()
+Participate in the Poll which app you used as replacement of OG Telegram [Poll]()
