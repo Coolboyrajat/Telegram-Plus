@@ -1,7 +1,7 @@
 # <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" /><img align="center" src="TeleGram ++.svg" height="60" width="200" />
 
 ## About 
->Based on 8.9.2
+>Based on 9.4.2
 
 Love from 🇮🇳
 - Reincarnation of Telegram, Telegram X, Nekogram, Nicegram 
@@ -17,7 +17,6 @@ Love from 🇮🇳
 - [ ] New Icon (duotone)(Animated);
 - [ ] Redesign Media Player;
 - [ ] Swipe Control in media player;
-- [ ] Some Settings will Pop up in the middle & Some from bottom. 
 - [ ] Delete Media data inside `Group/Channel` media tab and if `owner/admin` remove source chat.
 - [ ] Calender in Siderbar to remember Date (User based)
 - [x] N Many Many More tiny things can't be explained...😍🥳 Go for Prototype down below 👇🏻👇🏻
@@ -31,14 +30,13 @@ Note: Hi everyone the above points is what
 
 ## Demo Preview: <br>
 
-Use [Figma](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dfigma+app&pcampaignid=APPU_1_ckfbY8zmHqeNseMP1-6YmAs&pli=1) app for Best Outcomes of 👉🏼 <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" />[PROTOTYPE](https://www.figma.com/proto/4OuObhrp6NOdEuZ1c1UGBy/Telegram?node-id=645%3A74&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=645%3A74) 👈🏼
+### 👉🏼 [Click Here To View PROTOTYPE](https://www.figma.com/proto/4OuObhrp6NOdEuZ1c1UGBy/Telegram?node-id=645%3A74&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=645%3A74) 👈🏼
 >Duotone Icon with Color Palette
 
-<img src="Screenshot.png" height="850" width="410" />
+<img src="Screenshot.png" height="850" width="410" /> <br>
 
-Get ready for more ... Do you like duotone icon in the demo preview [Poll]()
+> ⭐ Use ["Figma"](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dfigma+app&pcampaignid=APPU_1_ckfbY8zmHqeNseMP1-6YmAs&pli=1) app for Best outcomes.
 
-I'm also thinking about a little change in icon for `'PREMIUM USER'`. Do guys what to give any [Suggestion / Discuss]()
 
 
 ## Features:
@@ -137,7 +135,14 @@ public class MainActivity extends AppCompatActivity {
    }  
 }
 ```
+<br>
 
-Check out how many of people voted for the features to be implemented [Poll](). If you want to join the chat to discuss, suggest new ideas [Click Here]() 
+- Any Ideas / Suggestion is appreciated. If you want to join the chat to discuss, suggest new ideas [Click Here](https://discord.gg/YqeTbs3Y)
+- Check out how many of people voted for the features to be implemented [Poll]().
+- Participate in the poll & see how many people like duotone icon in the demo preview [Poll]()
+- See how many people use same version and as replacement of OG Telegram [Poll]()
 
-Participate in the Poll which app you used as replacement of OG Telegram [Poll]()
+<br>
+
+### [YOU CAN CONTACT ME, IF YOUR ARE DEVELOPER AND TRY TO HELP ME BUILD THE APP.]()
+[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" height='50' width='150' />](https://discord.gg/YqeTbs3Y)
