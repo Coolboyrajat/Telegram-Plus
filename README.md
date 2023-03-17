@@ -1,24 +1,25 @@
 # <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" /><img align="center" src="TeleGram ++.svg" height="60" width="200" />
 
 ## About 
->Based on 9.4.2
+>Based on 9.5.3
 
 Love from 🇮🇳
 - Reincarnation of Telegram, Telegram X, Nekogram, Nicegram 
 
 ## What's New:
 
-- [ ] New UI, Design from Scratch by [@Radioactive](https://github.com/Coolboyrajat)
-- [ ] Customizable widget in Action Bar;
-- [ ] Seperate Pinned Tabs;
+- [x] New UI, Design from Scratch by [@Radioactive](https://github.com/Coolboyrajat)
+- [x] Customizable widget in Action Bar;
+- [x] Seperate Pinned Tabs;
 - [x] Fingerprint Support for locking app;
-- [ ] Accent Color 🎨
-- [ ] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
-- [ ] New Icon (duotone)(Animated);
+- [x] Accent Color 🎨
+- [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
+- [x] New Icon;
 - [ ] Redesign Media Player;
 - [ ] Swipe Control in media player;
 - [ ] Delete Media data inside `Group/Channel` media tab and if `owner/admin` remove source chat.
-- [ ] Calender in Siderbar to remember Date (User based)
+- [x] Calender in Siderbar to remember Date (User based)
+- [ ] Payment through QR code scanning;💡
 - [x] N Many Many More tiny things can't be explained...😍🥳 Go for Prototype down below 👇🏻👇🏻
 
 ```
