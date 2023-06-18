@@ -1,7 +1,5 @@
 # <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" /><img align="center" src="TeleGram ++.svg" height="60" width="200" />
 
-![TeleGram ++](https://github.com/Coolboyrajat/Telegram-Plus/assets/67316346/cc96b5fb-a22d-4733-9aae-78e4161fb669)
-
 ## About 
 >Based on 9.6.7
 
@@ -36,8 +34,7 @@ Note: Hi everyone the above points is what
 
 <p align="center"> 👉🏼 First Glance 👈🏼 </p>
 
-![Glance Preview](https://github.com/Coolboyrajat/Telegram-Plus/assets/67316346/3a005146-9527-419e-b0a6-3cce393b0515)
-![Glance Preview (1)](https://github.com/Coolboyrajat/Telegram-Plus/assets/67316346/6bbf63f3-be91-43de-9c99-743f0ceab211)
+![Glance Preview](https://github.com/Coolboyrajat/Telegram-Plus/assets/67316346/547d7fc7-c05e-4734-83ed-0d369ba0abb6)
 
 ## Features:
 
