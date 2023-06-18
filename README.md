@@ -1,43 +1,42 @@
 # <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" /><img align="center" src="TeleGram ++.svg" height="60" width="200" />
 
 ## About 
->Based on 9.5.3
+>Based on 9.6.7
 
 Love from 🇮🇳
-- Reincarnation of Telegram, Telegram X, Nekogram, Nicegram 
+- Reincarnation of Telegram, Telegram X, Nekogram, Nicegram, MDgram 
 
 ## What's New:
 
 - [x] New UI, Design from Scratch by [@Radioactive](https://github.com/Coolboyrajat)
 - [x] Customizable widget in Action Bar;
-- [x] Seperate Pinned Tabs;
+- [x] Separate Pinned Tabs;
+- [ ] Separate interaction between Profile & Text in all Chats
 - [x] Fingerprint Support for locking app;
 - [x] Accent Color 🎨
 - [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
 - [x] New Icon;
 - [ ] Redesign Media Player;
 - [ ] Swipe Control in media player;
-- [ ] Delete Media data inside `Group/Channel` media tab and if `owner/admin` remove source chat.
-- [x] Calender in Siderbar to remember Date (User based)
+- [ ] Delete Media data inside the `Group/Channel` media tab and if `owner/admin` remove source chat.
+- [x] Calender in Sidebar to add events (User-based)
 - [ ] Payment through QR code scanning;💡
 - [x] N Many Many More tiny things can't be explained...😍🥳 Go for Prototype down below 👇🏻👇🏻
 
 ```
 Note: Hi everyone the above points is what 
-  I want to be integrated in the app,
-     But Since I'm not a developer 
+  I want to be integrated into the app,
+   But Since I'm not a core developer 
     I can't implement this feature.
 ```
 
-## Demo Preview: <br>
+## Demo Preview:
 
-### 👉🏼 [Click Here To View PROTOTYPE](https://www.figma.com/proto/4OuObhrp6NOdEuZ1c1UGBy/Telegram?node-id=645%3A74&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=645%3A74) 👈🏼
->Duotone Icon with Color Palette
+<p align="center"> 👉🏼 First Glance 👈🏼 </p>
 
-<img src="Screenshot.png" height="850" width="410" /> <br>
+![Glance Preview](https://github.com/Coolboyrajat/Telegram-Plus/assets/67316346/3a005146-9527-419e-b0a6-3cce393b0515)
 
-> ⭐ Use ["Figma"](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dfigma+app&pcampaignid=APPU_1_ckfbY8zmHqeNseMP1-6YmAs&pli=1) app for Best outcomes.
-
+<br>
 
 
 ## Features:
@@ -58,7 +57,7 @@ Note: Hi everyone the above points is what
 - [x] Multi-Select messages or media (Source Telegram X)
 - [x] Bottom Action Bar (MDgram)
 
-### Biometric FingerPrint Authentication (Java Based Code)
+### Biometric FingerPrint Authentication (Java-Based Code)
 
 - activity_main.xml
 ```
@@ -138,12 +137,12 @@ public class MainActivity extends AppCompatActivity {
 ```
 <br>
 
-- Any Ideas / Suggestion is appreciated. If you want to join the chat to discuss, suggest new ideas [Click Here](https://discord.gg/YqeTbs3Y)
-- Check out how many of people voted for the features to be implemented [Poll]().
-- Participate in the poll & see how many people like duotone icon in the demo preview [Poll]()
-- See how many people use same version and as replacement of OG Telegram [Poll]()
+- I would appreciate any ideas or suggestions. If you want to join the chat to discuss, suggest new ideas [Click Here](https://discord.gg/YqeTbs3Y)
+- Check out how many people voted for the features to be implemented [Poll]().
+- Participate in the poll & see how many people are already excited to see a live version [Poll]()
+- Most used variant [strats]()
 
 <br>
 
-### [YOU CAN CONTACT ME, IF YOUR ARE DEVELOPER AND TRY TO HELP ME BUILD THE APP.]()
+### [YOU CAN CONTACT ME, IF YOU ARE A DEVELOPER AND TRY TO HELP ME BUILD THE APP.]()
 [<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" height='50' width='150' />](https://discord.gg/YqeTbs3Y)
