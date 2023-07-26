@@ -1,7 +1,7 @@
 # <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" /><img align="center" src="TeleGram ++.svg" height="60" width="200" />
 
 ## About 
->Based on 9.6.7
+>Based on 9.7.2
 
 Love from 🇮🇳
 - Reincarnation of Telegram, Telegram X, Nekogram, Nicegram, MDgram 
@@ -14,6 +14,7 @@ Love from 🇮🇳
 - [ ] Separate interaction between Profile & Text in all Chats
 - [x] Fingerprint Support for locking app;
 - [x] Accent Color 🎨
+- [ ] Dynamic Usernames Color by [@SOUICC](https://t.me/designers/197) 
 - [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
 - [x] New Icon;
 - [ ] Redesign Media Player;
@@ -21,7 +22,7 @@ Love from 🇮🇳
 - [ ] Delete Media data inside the `Group/Channel` media tab and if `owner/admin` remove source chat.
 - [x] Calender in Sidebar to add events (User-based)
 - [ ] Payment through QR code scanning;💡
-- [x] N Many Many More tiny things can't be explained...😍🥳 Go for Prototype down below 👇🏻👇🏻
+- [x] N Many Many More tiny things can't be explained...😍🥳
 
 ```
 Note: Hi everyone the above points is what 
@@ -134,7 +135,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 <br>
 
-- I would appreciate any ideas or suggestions. If you want to join the chat to discuss, suggest new ideas [Click Here](https://discord.gg/YqeTbs3Y)
+- I would appreciate any ideas or suggestions. If you want to join the chat to discuss, suggest new ideas [Click Here](https://discord.gg/7Vd34x4TAG)
+- [Telegram Designers Channel](https://t.me/designers)
 - Check out how many people voted for the features to be implemented [Poll]().
 - Participate in the poll & see how many people are already excited to see a live version [Poll]()
 - Most used variant [strats]()
@@ -142,4 +144,4 @@ public class MainActivity extends AppCompatActivity {
 <br>
 
 ### [YOU CAN CONTACT ME, IF YOU ARE A DEVELOPER AND TRY TO HELP ME BUILD THE APP.]()
-[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" height='50' width='150' />](https://discord.gg/YqeTbs3Y)
+[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" height='50' width='150' />](https://discord.gg/7Vd34x4TAG)
