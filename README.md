@@ -12,9 +12,8 @@ Love from 🇮🇳
 - [x] Customizable widget in Action Bar;
 - [x] Separate Pinned Tabs;
 - [ ] Separate interaction between Profile & Text in all Chats
-- [x] Fingerprint Support for locking app;
 - [x] Accent Color 🎨
-- [ ] Dynamic Usernames Color by [@SOUICC](https://t.me/designers/197) 
+- [ ] Dynamic Usernames Color by @SOUICC [Preview](https://t.me/designers/197) 
 - [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
 - [x] New Icon;
 - [ ] Redesign Media Player;
@@ -55,88 +54,10 @@ Note: Hi everyone the above points is what
 - [x] Multi-Select messages or media (Source Telegram X)
 - [x] Bottom Action Bar (MDgram)
 
-### Biometric FingerPrint Authentication (Java-Based Code)
-
-- activity_main.xml
-```
-android:id="@+id/main_layout"
-android:visibility="gone"
-```
-
-- built.gradle
-```
-dependencies{
-    implementation 'androidx.biometric:biometric:1.0.1'
-}
-```
-
-- MainActivity.java
-```
-public class MainActivity extends AppCompatActivity {
-    
-
-   BiometricPrompt biometricPrompt; // Use androidx.biometric
-   BiometricPrompt.PromptInfo promptInfo;
-   ConstraintLayout mMainLayout;
-
-
-   @Override
-   protected void onCreate(Bundle savedInstanceState) {
-       super.onCreate(savedInstanceState);
-       setContentView(R.layout.activity_main);
-       mMainLayout = findViewById(R.id.main_layout);
-
-
-       BiometricManager biometricManager=BiometricManager.from(this);
-       switch(biometric Manager.canAuthenticate())
-       {
-            case BiometricManager.BIOMETRIC_ERROR_NO_HARDWARE:
-                Toast.makeText(getApplicationContext(), "Device Doesn't have fingerprint", Toast.LENGTH_SHORT).show();
-                break;
-
-            case BiometricManager.BIOMETRIC_ERROR_HW_UNAVAILABLE:
-                Toast.makeText(getApplicationContext(), "Not Working", Toast.LENGTH_SHORT).show();
-
-            case BiometricManager.BIOMETRIC ERROR_NONE_ENROLLED:
-                Toast.makeText(getApplicationContext(), "No FingerPrint Assigned", Toast.LENGTH_SHORT).show();
-       }
-
-       
-      Executor executor = ContextCompat.getMainExecutor(this);
-
-      biometricPrompt = new BiometricPrompt(MainActivity.this, executor, new BiometricPrompt.AuthenticationCallback() {
-            @Override
-            public void onAuthenticationError(int errorCode, @NonNull CharSequence errString) {
-                super.onAuthenticationError(errorCode, errString);
-            }
-
-            @Override
-            public void onAuthenticationSucceeded(@NonNull BiometricPrompt.AuthenticationResult result) {
-                super.onAuthenticationSucceeded(result);
-                Toast.makeText(getApplicationContext()), "Login Successfully", Toast.LENGTH_SHORT.short();
-                mMainLayout.setVisibility(view.VISIBLE);
-            }
-
-            @Override
-            public void onAuthenticationFailed() {
-                super.onAuthenticationFailed();
-            }
-        });
-
-        promptInfo = new BiometricPrompt.PromptInfo.Builder()
-                       .setTitle("Test Built")
-                       .setDescription("Use FingerPrint to Login")
-                       .setDeviceCredentialAllowed(true).built();
-
-        biometricPrompt.authenticate(promptInfo);
-
-   }  
-}
-```
 <br>
 
-- I would appreciate any ideas or suggestions. If you want to join the chat to discuss, suggest new ideas [Click Here](https://discord.gg/7Vd34x4TAG)
-- [Telegram Designers Channel](https://t.me/designers)
+- I would appreciate any ideas or suggestions. If you want to join the chat to discuss, suggest new ideas [Click Here](https://discord.gg/NZ4PAMTmZc)
+- Do visit [Telegram Designers Channel](https://t.me/designers)
 - Check out how many people voted for the features to be implemented [Poll]().
 - Participate in the poll & see how many people are already excited to see a live version [Poll]()
 - Most used variant [strats]()
@@ -144,4 +65,4 @@ public class MainActivity extends AppCompatActivity {
 <br>
 
 ### [YOU CAN CONTACT ME, IF YOU ARE A DEVELOPER AND TRY TO HELP ME BUILD THE APP.]()
-[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" height='50' width='150' />](https://discord.gg/7Vd34x4TAG)
+[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" height='50' width='150' />](https://discord.gg/NZ4PAMTmZc)
