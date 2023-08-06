@@ -1,7 +1,7 @@
-# <img src="https://github.com/Coolboyrajat/Flaticons/blob/main/svg/Star%202.svg" height="30" width="30" /><img align="center" src="TeleGram ++.svg" height="60" width="200" />
+![logo](https://github.com/Coolboyrajat/Telegram-Plus/assets/67316346/46f8f12a-50d1-48ee-83e8-b0c340695313)
 
 ## About 
->Based on 9.7.2
+>Based on 9.7.6
 
 Love from 🇮🇳
 - Reincarnation of Telegram, Telegram X, Nekogram, Nicegram, MDgram 
@@ -11,14 +11,14 @@ Love from 🇮🇳
 - [x] New UI, Design from Scratch by [@Radioactive](https://github.com/Coolboyrajat)
 - [x] Customizable widget in Action Bar;
 - [x] Separate Pinned Tabs;
-- [ ] Separate interaction between Profile & Text in all Chats
+- [x] Separate interaction between Profile Pic & Text Area in all Chats;
 - [x] Accent Color 🎨
-- [ ] Dynamic Usernames Color by @SOUICC [Preview](https://t.me/designers/197) 
+- [ ] Dynamic Usernames Color by @SOUICC [Click to Preview](https://t.me/designers/197)
 - [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
 - [x] New Icon;
-- [ ] Redesign Media Player;
+- [x] Redesign Media Player;
 - [ ] Swipe Control in media player;
-- [ ] Delete Media data inside the `Group/Channel` media tab and if `owner/admin` remove source chat.
+- [x] Delete Media data inside the `Group/Channel` media tab and if `owner/admin` remove source chat.
 - [x] Calender in Sidebar to add events (User-based)
 - [ ] Payment through QR code scanning;💡
 - [x] N Many Many More tiny things can't be explained...😍🥳
@@ -28,6 +28,8 @@ Note: Hi everyone the above points is what
   I want to be integrated into the app,
    But Since I'm not a core developer 
     I can't implement this feature.
+            But...But...But
+  I have made a prototype to showcase.
 ```
 
 ## Demo Preview:
