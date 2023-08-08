@@ -1,7 +1,7 @@
 ![logo](https://github.com/Coolboyrajat/Telegram-Plus/assets/67316346/46f8f12a-50d1-48ee-83e8-b0c340695313)
 
 ## About 
->Based on 9.7.6
+>Based on 9.8.0
 
 Love from 🇮🇳
 - Reincarnation of Telegram, Telegram X, Nekogram, Nicegram, MDgram 
@@ -16,6 +16,7 @@ Love from 🇮🇳
 - [ ] Dynamic Usernames Color by @SOUICC [Click to Preview](https://t.me/designers/197)
 - [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
 - [x] New Icon;
+- [x] Quick Chats in both directions;
 - [x] Redesign Media Player;
 - [ ] Swipe Control in media player;
 - [x] Delete Media data inside the `Group/Channel` media tab and if `owner/admin` remove source chat.
