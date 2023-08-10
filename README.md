@@ -17,6 +17,7 @@ Love from 🇮🇳
 - [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
 - [x] New Icon;
 - [x] Quick Chats in both directions;
+- [x] Forward as DM;
 - [x] Redesign Media Player;
 - [ ] Swipe Control in media player;
 - [x] Delete Media data inside the `Group/Channel` media tab and if `owner/admin` remove source chat.
