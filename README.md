@@ -1,7 +1,7 @@
 ![logo](https://github.com/Coolboyrajat/Telegram-Plus/assets/67316346/46f8f12a-50d1-48ee-83e8-b0c340695313)
 
 ## About 
->Based on 9.8.0
+>Based on 10.2.0
 
 Love from 🇮🇳
 - Reincarnation of Telegram, Telegram X, Nekogram, Nicegram, MDgram 
@@ -15,18 +15,19 @@ Love from 🇮🇳
 - [x] Accent Color 🎨
 - [ ] Dynamic Usernames Color by @SOUICC [Click to Preview](https://t.me/designers/197)
 - [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
-- [x] New Icon;
+- [x] New Icons;
 - [x] Quick Chats in both directions;
+- [x] Pin Preview;
 - [x] Forward as DM;
 - [x] Redesign Media Player;
 - [ ] Swipe Control in media player;
 - [x] Delete Media data inside the `Group/Channel` media tab and if `owner/admin` remove source chat.
-- [x] Calender in Sidebar to add events (User-based)
+- [x] Calender in the Sidebar to add events (User-based)
 - [ ] Payment through QR code scanning;💡
 - [x] N Many Many More tiny things can't be explained...😍🥳
 
 ```
-Note: Hi everyone the above points is what 
+Note: Hi everyone the above points are what 
   I want to be integrated into the app,
    But Since I'm not a core developer 
     I can't implement this feature.
