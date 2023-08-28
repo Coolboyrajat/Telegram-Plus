@@ -17,6 +17,7 @@ Love from 🇮🇳
 - [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
 - [x] New Icons;
 - [x] Quick Chats in both directions;
+- [ ] Select In-app Browser, over-riding System Default;
 - [x] Pin Preview;
 - [x] Forward as DM;
 - [x] Redesign Media Player;
