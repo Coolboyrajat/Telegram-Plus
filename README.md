@@ -23,6 +23,7 @@ Love from 🇮🇳
 - [x] Redesign Media Player;
 - [ ] Swipe Control in media player;
 - [x] Delete Media data inside the `Group/Channel` media tab and if `owner/admin` remove source chat.
+- [x] Remember the last share interaction for quick sharing; 
 - [x] Calender in the Sidebar to add events (User-based)
 - [ ] Payment through QR code scanning;💡
 - [x] N Many Many More tiny things can't be explained...😍🥳
