@@ -14,18 +14,26 @@ Love from 🇮🇳
 - [x] Separate interaction between Profile Pic & Text Area in all Chats;
 - [x] Accent Color 🎨
 - [ ] Dynamic Usernames Color by @SOUICC [Click to Preview](https://t.me/designers/197)
-- [x] Number of buttons under Profile Pic `[1,2 or 5 user dependent (min 1 required)]`
+- [x] Number of buttons under Profile Pic `[1,2,3 or 5 user dependent (min 1 required)]`
 - [x] New Icons;
 - [x] Quick Chats in both directions;
 - [ ] Select In-app Browser, over-riding System Default;
 - [x] Pin Preview;
 - [x] Forward as DM;
 - [x] Redesign Media Player;
+- [x] Bottom Navigation Bar (4 Different layouts with unique customization);
+- [x] Folder Bar;
+- [x] Instant Lock;
+- [x] Group Pin Chats;
+- [x] New Music Layout & Enhanced pop-up menu to enlighten your mood;
+- [x] Buttons in Links Tab;
+- [x] Redesign QR Code;
 - [ ] Swipe Control in media player;
 - [x] Delete Media data inside the `Group/Channel` media tab and if `owner/admin` remove source chat.
 - [x] Remember the last share interaction for quick sharing; 
 - [x] Calender in the Sidebar to add events (User-based)
 - [ ] Payment through QR code scanning;💡
+- [ ] 💡**Concept Idea:** Cloud Integration → Copy Telegram files to your desired cloud through API's.
 - [x] N Many Many More tiny things can't be explained...😍🥳
 
 ```
